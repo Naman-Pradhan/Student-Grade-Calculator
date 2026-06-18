@@ -21,6 +21,7 @@ A beginner-friendly Python project that calculates student grades based on marks
 
 ```bash
 python grade_calculator.py
+```
 
 ## Author
 
